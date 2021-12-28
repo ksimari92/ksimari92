@@ -1,0 +1,4 @@
+- 👋 Hola! Mi nombre es Karen Simari
+- 👀 Soy Web Developer 
+- 🌱 Actualmente estoy estudiando React Js 
+- 📫 Soy tutora en los cursos de Desarrollo Web y JavaScript de CoderHouse, me encanta ayudar a otros a entender y conocer más del mundo de la programación
