@@ -3,8 +3,6 @@
 
 - 🔭 Actualmente trabajo como Profe de programación **en distintas academias**
 
-- 🌱 Actualmente sigo estudiando **React JS**
-
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karen-simari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karen-simari/" height="30" width="40" /></a>
