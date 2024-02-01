@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,Soy Karen Simari!</h1>
-<h3 align="center">Desarrolladora Front End</h3>
+<h3 align="center">Desarrolladora Full Stack</h3>
 
 - 🔭 Actualmente trabajo como Profe de programación **en distintas academias**
 
