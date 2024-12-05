@@ -1,7 +1,9 @@
 <h1 align="center">Hola 👋,Soy Karen Simari!</h1>
 <h3 align="center">Desarrolladora Full Stack</h3>
 
-- 🔭 Actualmente trabajo como Profe de programación **en distintas academias**
+- 🔭 Profe de programación **Escuelas Municapales IT (Cluster Tecnológico de Tandil)**
+- - 🔭 VTEX Dev **Red Clover**
+- 🔭 Front End Dev **Freelance**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
